@@ -40,7 +40,12 @@ input{
     outline: none;
 }
 
-.primeiro-passo{
+#resultado{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.terceiro-passo{
     display: none;
 }
 
